@@ -1,2 +1,2 @@
-# C_Programming
+# C Programming
 Mixed Projects - C Programming Studies
